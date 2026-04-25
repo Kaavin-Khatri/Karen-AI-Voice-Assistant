@@ -16,3 +16,5 @@ Pillow
 gnews
 yt-dlp
 pypdf
+
+streamlit

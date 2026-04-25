@@ -97,11 +97,11 @@ def ask_genai(query):
     # List of common models to try first
     # PRIORITY: High Quota / Low Latency models first
     models_to_try = [
-        'gemini-2.0-flash-lite',     # Often has separate quota
+        'gemini-2.0-flash-lite',     # High Quota / Low Latency
         'gemini-2.0-flash',          # Standard
-        'gemini-2.5-flash',          # Newer Stable
-        'gemini-flash-latest',       # Fallback to latest
-        'gemini-2.0-flash-001',      # Specific version
+        'gemini-1.5-flash-8b',       # High efficiency / Very low latency
+        'gemini-1.5-flash',          # Extremely reliable fallback
+        'gemini-flash-latest',       # Generic latest
     ]
     
     last_error = ""

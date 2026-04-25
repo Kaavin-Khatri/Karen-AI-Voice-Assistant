@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project Specific
+gemini_api_key.txt
+tts_cache/
+todo_list.json
+temp_screen_analysis.png
+screenshot_*.png
+speech.mp3
+karen_data/
+
+# Streamlit
+.streamlit/
