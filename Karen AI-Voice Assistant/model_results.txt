@@ -1,0 +1,8 @@
+--- START PROBE ---
+Testing: gemini-1.5-flash...FAILED ❌ (404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.)
+Testing: gemini-1.5-flash-latest...FAILED ❌ (404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.)
+Testing: gemini-1.5-pro...FAILED ❌ (404 models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.)
+Testing: gemini-1.5-pro-latest...FAILED ❌ (404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.)
+Testing: gemini-1.0-pro...FAILED ❌ (404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.)
+Testing: gemini-2.0-flash-exp...FAILED ❌ (404 models/gemini-2.0-flash-exp is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.)
+--- END PROBE ---
