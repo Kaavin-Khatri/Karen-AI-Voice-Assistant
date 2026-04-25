@@ -69,17 +69,16 @@ cd Karen-AI-Voice-Assistant
 pip install -r "Karen AI-Voice Assistant/requirements.txt"
 ```
 
-### 4. Configure API Key
-Create a file named `gemini_api_key.txt` inside the `Karen AI-Voice Assistant` directory and paste your Gemini API key there.
+### 4. Configuration
+Create a file named `gemini_api_key.txt` in this folder and paste your Gemini API key there.
 
 ---
 
 ## 🎮 How to Run
 
-Navigate to the project directory and launch the Streamlit app:
+Launch the Streamlit app from this directory:
 
 ```bash
-cd "Karen AI-Voice Assistant"
 streamlit run streamlit_app.py
 ```
 
